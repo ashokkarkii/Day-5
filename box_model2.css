@@ -1,0 +1,24 @@
+.firstbox{
+    background-color: rgb(211, 200, 197);
+    border:2px solid red;
+    /* padding:30px 30px; */
+    padding-left: 60px;
+    padding-top: 30px;
+    /* padding-bottom: -100px; */
+    width: 60px;
+    height: 50px;
+    margin:-8px 0px 0px -8px;
+
+
+}
+
+.secondbox{
+    background-color: rgb(58, 58, 200);
+    border:2px solid red;
+    /* padding:30px 30px; */
+    padding-left: 30px;
+    padding-top: 30px;
+    width: 60px;
+    height: 50px;
+    margin:-84px 0px -2px 84px;
+}

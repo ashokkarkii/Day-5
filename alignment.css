@@ -1,0 +1,65 @@
+  .container{
+
+            width: 900px;
+            border:3px solid red;
+            margin: 60px auto;
+            background-color: darkorange;
+
+
+        }
+         
+         .iteam{
+            border:2px solid red;
+            margin:12px 3px;
+            padding:12px 12px;
+            background-color: aqua;
+
+         }
+         body{
+            font-family: 'Inter', sans-serif;
+            /* background-color: red; */
+         }
+
+         #fruitpara{
+            color: rgb(255, 0, 0);
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            margin: auto;
+
+         }
+
+         #computerpara{
+            color: rgb(255, 0, 0);
+            margin-left: 40px;
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+         }
+
+         #stationarypara{
+            color: rgb(255, 0, 0);
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+         }
+
+         #fruit1{
+            float: left;
+            width: 48%;
+         }
+         #computer2{
+            float: left;
+            width:48%;
+         }
+         #stationary3{
+            /* float:right; */
+            width: 100%;
+            clear: left;
+            clear: both;
+
+         }
+         *{
+            box-sizing: border-box;
+            
+         }
+         h1{
+            margin: auto;
+            width: 50%;
+         }
